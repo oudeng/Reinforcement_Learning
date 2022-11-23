@@ -1,1 +1,3 @@
-# Reinforcement_Learning
+# Reinforcement Learning
+
+Study memo.
